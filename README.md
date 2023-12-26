@@ -1,2 +1,3 @@
-# Hi! This is a test repository.
+# Test Repository
 
+This repository contains all the codes that are in testing or incomplete.
